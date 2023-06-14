@@ -7,6 +7,7 @@ I am a student of IT at the Faculty of WEEiA at the Lodz University of Technolog
 </p>
 
 - 🔭 I’m currently working on **Doctor-Patient web application + Ludo Game**
+  Ludo Game: https://github.com/Project-Ludo/Ludo-Game
 
 - 🌱 I’m currently learning **Spring, hibernate**
 
